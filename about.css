@@ -1,0 +1,24 @@
+.box1 {
+    margin: auto;
+    width: 1000px;
+    height: 1250px;
+    background-color: black;
+}
+
+.detail {
+    margin: 20px;
+    padding: 40px;
+    color: white;
+    text-align: center;
+}
+
+.detail_a {
+    margin: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.detail_b {
+    margin: 20px;
+    text-align: left;
+    font-family: 'Kanit', sans-serif;
+}

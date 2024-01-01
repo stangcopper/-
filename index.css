@@ -1,0 +1,44 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/6b/5b/89/6b5b89c917589978c79b25ddaab38ec7.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: 'Roboto', sans-serif;
+}
+
+.boxtopbar{
+    max-width: 60px;
+    margin-left: 200px;
+}
+
+.navbar a {
+    float: left;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ 
+.icon {
+    width: 100%;
+    float: left;
+}
+
+.boxcontent{
+    margin: auto;
+    width: 1000px;
+    height: 800px;
+}
+
+.content{
+    max-width: 700px;
+    padding-top: 60px;
+}
